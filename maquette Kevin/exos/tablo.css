@@ -1,0 +1,128 @@
+body{
+    width: 65%;
+    margin: 10px auto;
+    background-image: url(../img/bgnw.jpg);
+}
+
+#a{
+    width: 1200px;
+    height: 250px;
+    border: 0px solid;
+    background-image: url(../img/scbanner.PNG);
+    
+}
+
+#b{
+    width: 1200px;
+    height: 250px;
+    background-image: url(../img/MesDerneirStitres.jpg);
+    border: 0px solid;
+    border-top: transparent;
+    border-bottom: transparent;
+    float: left;
+    margin-left: 0px;
+    text-align: center;
+    color: black;
+    font-size: 45px;
+    text-shadow: 3px 7px 1px rgb(5, 65, 65), 0 0 1em rgb(0, 255, 255), 0 0 0.9em rgb(0, 255, 255);
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+#c{
+    width: 109px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    border-top: transparent;
+    float: left;
+    border-left: transparent;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#d{
+    width: 109px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    border-top: transparent;
+    float: left;
+    border-left: transparent;
+}
+#e{
+    width: 109px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    border-top: transparent;
+    float: left;
+    border-left: transparent;
+}
+#f{
+    width: 110px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    border-top: transparent;
+    float: left;
+    border-left: transparent;
+}
+#g{
+    width: 550px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    float: left;
+    border-top: transparent;
+}
+#h{
+    width: 550px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    float: left;
+    border-top: transparent;
+}
+#i{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    float: left;
+    border-top: transparent;
+
+}
+#j{
+    width: 249px;
+    height: 175px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    float: left;
+    border-top: transparent;
+    border-left: transparent;
+}
+#k{
+    width: 125px;
+    height: 24px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    float: left;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+#l{
+    width: 123px;
+    height: 24px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    float: left;
+    border-top: transparent;
+}
+#m{
+    width: 550px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    float: left;
+    border-top: transparent;
+}
+
